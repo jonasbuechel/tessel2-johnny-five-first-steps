@@ -1,0 +1,24 @@
+{
+  "name": "tessel2-johnny-five-first-steps",
+  "version": "1.0.0",
+  "description": "First steps with Johnny five inventor's kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasbuechel/tessel2-johnny-five-first-steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasbuechel/tessel2-johnny-five-first-steps/issues"
+  },
+  "homepage": "https://github.com/jonasbuechel/tessel2-johnny-five-first-steps#readme",
+  "devDependencies": {
+    "johnny-five": "^0.10.6",
+    "tessel-io": "^0.10.1"
+  }
+}
